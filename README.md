@@ -1,2 +1,2 @@
 # Rabot
-Just a noobie dev's try to build a discord bot
+ Rabot is a basic discord bot, almost like a cheap version of dank memer.
