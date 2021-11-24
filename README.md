@@ -1,2 +1,2 @@
 # Rabot
- Rabot is a basic discord bot, almost like a cheap version of dank memer.
+ Rabot is a basic discord bot, that sends you memes, jokes , weather forecasts among other neat features 
